@@ -21,7 +21,7 @@
  - :telescope: I'm a QA Manual & Automation tester from Argentina
       
     
- - 👨‍💼 I'm also an enthusiast for software development and web design
+ - 👨‍💼 I'm also an enthusiast for software development.
       
     
 - :zap: I'm very passionate about facing challenges and learning new technologies.
