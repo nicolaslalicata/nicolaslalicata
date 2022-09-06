@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
   
       
- - :telescope: I'm a QA Manual & Automation tester from Argentina
+ - :telescope: I'm a Full Stack Developer from Argentina
       
     
  - 👨‍💼 I'm also an enthusiast for software development.
